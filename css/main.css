@@ -486,7 +486,7 @@
       height: 30px;
       width: 20px;
       display: inline-block;
-      background: url(/dist/img/img/social.png) no-repeat; }
+      background: url(../img/img/social.png) no-repeat; }
     .callback__socials_telegram {
       background-position: -23px 0;
       cursor: pointer; }
